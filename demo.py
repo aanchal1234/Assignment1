@@ -6,9 +6,6 @@ print(type(x))
 
 x=1.5
 print(x)
-print(type(x))
-
-x='a'
 print(x)
 print(type(x))
 
