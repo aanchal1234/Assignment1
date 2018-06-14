@@ -1,0 +1,9 @@
+a=[12,86,34,2959,138]
+b=[17,19,211,13]
+a.sort()
+print(a)
+b.sort()
+print(b)
+li=(a+b)
+li.sort()
+print(li)
