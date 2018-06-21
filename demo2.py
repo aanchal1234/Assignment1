@@ -1,4 +1,4 @@
-#question 1
+.#question 1
 li=[0,0,0,0 ]
 li[0]=int(input("enter 1st number"))
 li[1]=int(input("enter 2n number"))
